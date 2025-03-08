@@ -6,7 +6,7 @@ import os
 # Get the current date
 current_date = datetime.now().strftime("%Y-%m-%d")
 
-GIT_REPO_PATH = "/root/soixam"
+GIT_REPO_PATH = "/root/ops-kolla-ansible"
 
 os.chdir(GIT_REPO_PATH)
 
