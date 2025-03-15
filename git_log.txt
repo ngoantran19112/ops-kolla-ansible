@@ -7,3 +7,4 @@
 2025-03-12: Adjusting permissions settings 🔑
 2025-03-13: Optimized workflow 🔧
 2025-03-14: Version bump 🚀
+2025-03-15: Bug fixes and tweaks 🐛
