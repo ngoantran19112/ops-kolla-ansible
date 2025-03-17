@@ -9,3 +9,4 @@
 2025-03-14: Version bump 🚀
 2025-03-15: Bug fixes and tweaks 🐛
 2025-03-16: Code cleanup 🧹
+2025-03-17: Simplified logic for readability 🧠
