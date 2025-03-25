@@ -17,3 +17,4 @@
 2025-03-22: Updated dependencies 📦
 2025-03-23: Tuning performance 🎶
 2025-03-24: Better input sanitization 🧼
+2025-03-25: Fixed critical bug 🛠️
