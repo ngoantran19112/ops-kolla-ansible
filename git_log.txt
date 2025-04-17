@@ -40,3 +40,4 @@
 2025-04-14: Preparing for next release 🚀
 2025-04-15: Adding more tests ✅
 2025-04-16: Routine update 🚀
+2025-04-17: Better exception handling ⚠️
