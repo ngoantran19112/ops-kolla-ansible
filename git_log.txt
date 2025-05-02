@@ -55,3 +55,4 @@
 2025-04-29: Fixed typo errors ✍️
 2025-04-30: Fixed critical bug 🛠️
 2025-05-01: Minor fixes & updates ✅
+2025-05-02: Updated README 📜
