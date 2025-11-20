@@ -2,7 +2,7 @@
 
 # Số commit muốn tạo
 NUM_COMMITS=200
-
+12
 # Lặp tạo commit với ngày tăng dần
 for ((i=NUM_COMMITS; i>=1; i--)); do
     # Tính ngày (bắt đầu từ 120 ngày trước, tiến về hiện tại)
